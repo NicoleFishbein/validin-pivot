@@ -1,0 +1,29 @@
+# Environment
+.env
+.venv/
+venv/
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+
+# Cache
+cache/
+
+# Claude Code
+.claude/
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# Output (remove these lines if you want to commit hunt results)
+output/
+
+# Reports: local report files and URL fetch cache
+reports/fetched/
+reports/manual_iocs.txt
