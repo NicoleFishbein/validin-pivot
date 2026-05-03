@@ -1,5 +1,7 @@
 # Validin Infrastructure Hunter
 
+<p align="center"><img src="logo.png" width="200" alt="Validin Infrastructure Hunter logo"/></p>
+
 Automated infrastructure pivoting CLI for threat intelligence analysts. Given one or more seed IOCs (domains, IPs, or URLs), it queries the [Validin](https://validin.com) passive-DNS and host-response API to discover related infrastructure and score connections by confidence.
 
 ## Features
